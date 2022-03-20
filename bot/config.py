@@ -4,13 +4,13 @@ from distutils.util import strtobool as stb
 
 # --------------------------------------
 BOT_TOKEN = "5165652203:AAEitVev-U0Tk-VEOY7iccHF4Q1n2EkLcS0"
-GDRIVE_FOLDER_ID = "0anq3dgytvlsnuk9pva"
+GDRIVE_FOLDER_ID = "0AJHiL3UnJERJUk9PVA"
 # Default folder id.
 OWNER_ID = 1261618989
 # Example: OWNER_ID = 619418070
 AUTHORISED_USERS = [1261618989, -1001748163527]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -10039439]
-INDEX_URL = "https://arifuploads.arjusk70.workers.dev"
+INDEX_URL = ""
 IS_TEAM_DRIVE = True
 USE_SERVICE_ACCOUNTS = True
 THREAD_COUNT = 4 
