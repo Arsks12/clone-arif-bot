@@ -12,7 +12,7 @@ AUTHORISED_USERS = [1261618989, -1001748163527]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -10039439]
 INDEX_URL = ""
 IS_TEAM_DRIVE = True
-USE_SERVICE_ACCOUNTS = True
+USE_SERVICE_ACCOUNTS = False
 THREAD_COUNT = 4 
 # --> THREAD_COUNT: How many parralel transfers of every single clone at the same time
 # ----> eg. I'm running 2 clones, and THREAD_COUNT is set to 4; so each clone will have 4 threads of it's own
